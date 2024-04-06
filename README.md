@@ -3,7 +3,6 @@
 *Note app built with MERN stack Tech. <br>*
 *Refrence https://www.notion.so/.*
 
-*Original project by: https://www.github.com/harxxhilgg*
 
 ## Usage
 *Access this application @ https://mern-notion-clone.vercel.app* 
