@@ -4,9 +4,6 @@
 *Refrence https://www.notion.so/.*
 
 
-## Usage
-*Access this application @ https://mern-notion-clone.vercel.app* 
-
 ## Features
 
 ### Core Note Management
